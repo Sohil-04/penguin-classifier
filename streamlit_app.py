@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 st.set_page_config(page_title="Penguin Classifier", layout="wide")
 
 st.title('🐧 Penguin Species Classifier')
-st.caption("A simple machine learning app built with Streamlit")
+st.caption("A simple machine learning app built with Streamlit ,that help you to predict species of penguin")
 
 # Load data
 @st.cache_data
