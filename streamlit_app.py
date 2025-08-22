@@ -8,3 +8,11 @@ with st.expander('Data'):
   st.write('***Raw Data***')
   data = pd.read_csv("penguins_cleaned.csv")
   data
+
+  st.write('***X***')
+  x = df.drop('species',axis = 1)
+  x
+
+  st.write('***Y***')
+  y = df.species
+  y
