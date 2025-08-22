@@ -41,7 +41,8 @@ with st.sidebar:
           'sex': gender}
   input_df = pd.DataFrame(data_1 , index =[0])
   input_penguins = pd.concat([input_df,x],axis=0)
-input_penguins  
+
+input_df
   
 
 
