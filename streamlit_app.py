@@ -14,5 +14,10 @@ with st.expander('Data'):
   x
 
   st.write('***Y***')
-  y = data.species
+  y = data
   y
+
+with st.expander('Data Visualization'):
+  st.scatter_chart[data=data, x='bill_length_mm',y='body_mass_g',color = 'species']
+  
+  
