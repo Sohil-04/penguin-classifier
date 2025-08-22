@@ -1,4 +1,4 @@
-# machine learning app
+# Penguin Classifier app
 this is ml app
 
 Description of the app ...
