@@ -4,5 +4,5 @@ st.title('machine learning app ')
 
 st.info('This app build machine learning model !')
 
-data = pd.read_csv("https://github.com/Sohil-04/st-machine-learning/blob/master/penguins_cleaned.csv")
+data = pd.read_csv("penguins_cleaned.csv")
 data
