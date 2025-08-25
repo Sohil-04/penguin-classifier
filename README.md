@@ -1,5 +1,5 @@
 # Penguin Classifier app
-this is ml app
+this is ml app for classification of penguin 
 
 Description of the app ...
 
